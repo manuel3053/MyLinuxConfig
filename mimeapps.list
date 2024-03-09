@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=userapp-nano-B0HRH2.desktop;userapp-sudo nano-6HPDH2.desktop;
+application/zip=userapp-unzip-ZM0YH2.desktop;
+
+[Default Applications]
+application/zip=userapp-unzip-ZM0YH2.desktop
